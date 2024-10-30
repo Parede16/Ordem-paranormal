@@ -1,0 +1,70 @@
+body {
+    color: antiquewhite;
+    background: rgb(0, 0, 0);
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+header {
+    border-bottom: solid 1px crimson;
+    padding: 10px;
+    font-size: 32px;
+    color: crimson;
+    font-family: "Manrope", sans-serif;
+}
+
+.introdução {
+    background: rgb(27, 0, 31);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    font-family: "Bona Nova SC", serif;
+}
+
+.subtitulo {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-left: 8%;
+    color:antiquewhite;
+}
+
+p {
+    font-size: 25px;
+}
+
+img {
+    height: 300px
+}
+
+.Temporada-1 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.temp1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.Temporada-1 img {
+    opacity: 0.5;
+    height: 300px
+}
+
+.Temporada-1 img:hover {
+    opacity: 1.0;
+    border: 2px solid crimson;
+}
+
