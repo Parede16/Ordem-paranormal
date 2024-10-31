@@ -1,5 +1,5 @@
 body {
-    color: antiquewhite;
+    color: rgb(238, 180, 180);
     background: rgb(0, 0, 0);
     margin: 0px;
     margin-bottom: 100px;
@@ -32,9 +32,9 @@ h1 {
 }
 
 h2 {
-    font-size: 30px;
+    font-size: 25px;
     margin-left: 8%;
-    color:rgb(201, 196, 190);
+    color:rgb(201, 190, 190);
 }
 
 p {
@@ -60,16 +60,16 @@ img {
 
 .Temporada-1 img {
     opacity: 0.5;
-    height: 300px
+    height: 200px
 }
 
 .Temporada-1 img:hover {
     opacity: 1.0;
-    border: 2px solid crimson;
+    border: 3px solid crimson;
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 25px;
     margin-left: 8%;
     color: rgb(22, 77, 22) ;
 }
@@ -82,12 +82,12 @@ h3 {
 
 .Temporada-2 img {
     opacity: 0.5;
-    height: 300px
+    height: 200px
 }
 
 .Temporada-2 img:hover {
     opacity: 1.0;
-    border: 2px solid crimson;
+    border: 3px solid crimson;
 }
 
 .Temp2 {
