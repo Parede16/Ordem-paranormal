@@ -34,7 +34,7 @@ h1 {
 h2 {
     font-size: 30px;
     margin-left: 8%;
-    color:antiquewhite;
+    color:rgb(201, 196, 190);
 }
 
 p {
@@ -51,7 +51,7 @@ img {
     gap: 10px;
 }
 
-.temp1 {
+.Temp1 {
     padding-left: 20px;
     padding-right: 20px;
     margin-bottom: 100px;
@@ -68,3 +68,31 @@ img {
     border: 2px solid crimson;
 }
 
+h3 {
+    font-size: 30px;
+    margin-left: 8%;
+    color: rgb(22, 77, 22) ;
+}
+
+.Temporada-2 {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+.Temporada-2 img {
+    opacity: 0.5;
+    height: 300px
+}
+
+.Temporada-2 img:hover {
+    opacity: 1.0;
+    border: 2px solid crimson;
+}
+
+.Temp2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
